@@ -13,7 +13,7 @@ This v1 version is hardcoded to connect to a guild server and a specific user. T
 
 <br>
 
-![build](https://raw.githubusercontent.com/brunokruse/costa-del-sol/main/img/chart.png?token=GHSAT0AAAAAABZSZ3OOUHTPB4J2OEOG4YQ2Y2EPERA)
+![build](https://raw.githubusercontent.com/brunokruse/costa-del-sol/main/img/build.png?token=GHSAT0AAAAAABZSZ3OPSB5JAD6MSD6GUWUYY2EPOYQ)
 
 <br>
 
