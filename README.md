@@ -19,6 +19,12 @@ The bot first connects to wifi then attempts to create a socket connection to th
 
 If the user voice-state object contains a channelID (meaning it is not null) they are in a voice channel. As of now we don't care what channel specifically, just that they are in one.
 
+<br>
+
+![flow-chart](https://raw.githubusercontent.com/brunokruse/costa-del-sol/main/img/chart.png?token=GHSAT0AAAAAABZSZ3OOUHTPB4J2OEOG4YQ2Y2EPERA)
+
+<br>
+
 ### example return:
 ```
 {
