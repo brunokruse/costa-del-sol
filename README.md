@@ -13,6 +13,10 @@ This v1 version is hardcoded to connect to a guild server and a specific user. T
 
 <br>
 
+![build](https://raw.githubusercontent.com/brunokruse/costa-del-sol/main/img/chart.png?token=GHSAT0AAAAAABZSZ3OOUHTPB4J2OEOG4YQ2Y2EPERA)
+
+<br>
+
 #  how it works
 
 The bot first connects to wifi then attempts to create a socket connection to the [discord gateway api](https://discord.com/developers/docs/topics/gateway) to receive 'voice-state' commands from the desired user. After the connection is made, it only listens to discord events when the user joins/exits a channel.
